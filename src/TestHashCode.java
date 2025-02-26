@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class TestHashCode {
     
     public static void main(String[] args) throws InterruptedException {
@@ -8,6 +11,9 @@ public class TestHashCode {
        System.out.println(str1.hashCode());
        System.out.println(str2.hashCode());
        System.out.println(str3.hashCode());
+
+        List<String> list = new ArrayList<>();
+        list.add("test");
     }
     
 }
