@@ -18,30 +18,30 @@ public class FilterFileContent {
 
 //          Path path = Paths.get("D:\\FilterConent\\uat\\resell-myshipment-2024-12-23.log");
 //        Path path = Paths.get("D:\\FilterConent\\1a\\resell.log");
-//        Path path = Paths.get("D:\\FilterConent\\1b\\resell-2025-02-21.log");
+        Path path = Paths.get("D:\\FilterConent\\1a\\resell-2025-02-27.log");
 //        Path path = Paths.get("D:\\FilterConent\\1b\\localhost_access_log.2025-02-18.txt");
       
 //        Path path = Paths.get("D:\\FilterConent\\1a\\resell-2024-01-29.log");
 //        Path path = Paths.get("D:\\FilterConent\\wintchSAPAdapter\\recruit.log.2024-01-17_utf8");
-        Path path = Paths.get("D:\\FilterConent\\wintech2005\\WintechPOSLogFile.log.2024-11-06_Utf8");
+//        Path path = Paths.get("D:\\FilterConent\\wintech2005\\WintechPOSLogFile.log.2024-11-06_Utf8");
 
         List<String> matchList = new ArrayList<>();
 
         
-      matchList.add("http://tcs-prod.wtmec.com:8080/tcs/eccn/public/rest/eccn/grandCheck");
-//////////        
-        matchList.add("US_LICENSE");
-////        
-        matchList.add("OB");
-        matchList.add("K0004521");
-////        
-      matchList.add("HMC635");
-//      matchList.add("210");
-//        matchList.add("5343585");
-//      matchList.add("9382298");
+//      matchList.add("http://tcs-prod.wtmec.com:8080/tcs/eccn/public/rest/eccn/grandCheck");
+////////////        
+//        matchList.add("US_LICENSE");
+//////        
+//        matchList.add("OB");
+//        matchList.add("K0004521");
+//////        
+//      matchList.add("10115264");
+//      matchList.add("2025-02-27T14:48");
+//        matchList.add("http-nio-8080-exec-223");
+//      matchList.add("Cindy.Chen");
 ////      
-//      matchList.add("10");
-//      matchList.add("2025-02-21T16:51");
+      matchList.add("2025-02-27T09:17");
+      matchList.add("http-nio-8080-exec-172");
 //      matchList.add("http-nio-8080-exec-2017");
 //      matchList.add("41646");
 
