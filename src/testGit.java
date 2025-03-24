@@ -6,5 +6,9 @@ public class testGit {
 
         int int1 = 0;
         int int2 = 1;
+
+
+        Integer ig = new  Integer(1);
+        Integer ig2 = new  Integer(1);
     }
 }
