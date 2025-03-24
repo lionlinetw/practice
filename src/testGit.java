@@ -3,5 +3,8 @@ public class testGit {
         String str1 = "";
         String str2 = "";
 
+
+        int int1 = 0;
+        int int2 = 1;
     }
 }
