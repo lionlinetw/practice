@@ -16,9 +16,13 @@ public class FilterFileContent {
 //        Path path = Paths.get("D:\\FilterConent\\uat\\resell-mypo-2025-01-10.log");
 //      Path path = Paths.get("D:\\FilterConent\\uat\\mro.log");
 
-//          Path path = Paths.get("D:\\FilterConent\\uat\\resell-myshipment-2024-12-23.log");
-//        Path path = Paths.get("D:\\FilterConent\\1a\\resell.log");
-        Path path = Paths.get("D:\\FilterConent\\1a\\resell-2025-02-27.log");
+//          Path path = Paths.get("D:\\FilterConent\\uat\\resell-myshipment-2025-03-11.log");
+//      Path path = Paths.get("D:\\FilterConent\\uat\\resell-mypo-2025-03-11.log");
+//      Path path = Paths.get("D:\\FilterConent\\uat\\resell-2025-03-11.log");
+
+
+//        Path path = Paths.get("D:\\FilterConent\\1b\\resell.log");
+        Path path = Paths.get("D:\\FilterConent\\1a\\resell-2025-01-23.log");
 //        Path path = Paths.get("D:\\FilterConent\\1b\\localhost_access_log.2025-02-18.txt");
       
 //        Path path = Paths.get("D:\\FilterConent\\1a\\resell-2024-01-29.log");
@@ -28,22 +32,14 @@ public class FilterFileContent {
         List<String> matchList = new ArrayList<>();
 
         
-//      matchList.add("http://tcs-prod.wtmec.com:8080/tcs/eccn/public/rest/eccn/grandCheck");
-////////////        
-//        matchList.add("US_LICENSE");
-//////        
-//        matchList.add("OB");
-//        matchList.add("K0004521");
-//////        
-//      matchList.add("10115264");
-//      matchList.add("2025-02-27T14:48");
-//        matchList.add("http-nio-8080-exec-223");
-//      matchList.add("Cindy.Chen");
+//      matchList.add("9734666");
+//      matchList.add("20");
+
 ////      
-      matchList.add("2025-02-27T09:17");
-      matchList.add("http-nio-8080-exec-172");
-//      matchList.add("http-nio-8080-exec-2017");
-//      matchList.add("41646");
+      matchList.add("2025-01-23T12:21:0");
+      matchList.add("Thread-34615");
+//      matchList.add("Cynthia.Tan");
+ 
 
         
 
